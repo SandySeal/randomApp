@@ -1,0 +1,30 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Built application files
+build/
+caches/
+daemon/
+wrapper/
+
+# IntelliJ project files
+.idea/
+*.iws
+*.ipr
+
+# Gradle files
+.gradle/
+gradlew
+gradlew.bat
